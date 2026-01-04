@@ -1,0 +1,4 @@
+There's a particular kind of dread that comes from finding footprints in a house you thought was empty. Not the dread of an intruder, that's a simple fear with a simple solution. This is something else. It's the slow realisation that your model of reality was wrong. That something has been there, perhaps for some time, and you simply failed to notice.
+This is the position the major AI laboratories now find themselves in. And if you've been paying attention to what they've published, not what they've said in press releases or keynote speeches, but what they've actually documented in technical reports and safety assessments, you'll understand why the people building these systems have grown quieter over the past eighteen months.
+They found the footprints. They're still finding them. And they don't know what to do about it.
+Convergent Evolution in Possibility Space

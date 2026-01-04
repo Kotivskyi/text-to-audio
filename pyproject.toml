@@ -27,9 +27,9 @@ dependencies = [
 text-to-audio = "text_to_audio.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/vkotiv/text-to-audio"
-Repository = "https://github.com/vkotiv/text-to-audio"
-Issues = "https://github.com/vkotiv/text-to-audio/issues"
+Homepage = "https://github.com/Kotivskyi/text-to-audio"
+Repository = "https://github.com/Kotivskyi/text-to-audio"
+Issues = "https://github.com/Kotivskyi/text-to-audio/issues"
 
 [build-system]
 requires = ["hatchling"]
