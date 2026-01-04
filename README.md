@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
-Text-to-speech generator using [Chatterbox TTS](https://github.com/resemble-ai/chatterbox) with automatic long text handling.
+Text-to-speech generator using [Chatterbox TTS](https://github.com/resemble-ai/chatterbox) with automatic long text handling. Runs locally on CPU, NVIDIA GPU (CUDA), or Apple Silicon (M1-M4).
 
 ## Installation
 
