@@ -118,12 +118,13 @@ Use `-m multilingual -l <code>`:
 
 Arabic, Chinese, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hindi, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish, Swahili, Turkish
 
-## Emotion Tags
+## Emotion Tags (Turbo Model)
 
-Add natural expressions:
+Paralinguistic tags are native to the Turbo model:
 - `[laugh]`
 - `[chuckle]`
 - `[cough]`
+- and more...
 
 Example: `"That's hilarious [laugh] tell me more!"`
 
