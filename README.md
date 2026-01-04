@@ -121,10 +121,16 @@ Arabic, Chinese, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew,
 ## Emotion Tags (Turbo Model)
 
 Paralinguistic tags are native to the Turbo model:
-- `[laugh]`
-- `[chuckle]`
-- `[cough]`
-- and more...
+- `[laugh]` - laughter
+- `[chuckle]` - light laughter
+- `[sigh]` - sighing
+- `[cough]` - coughing
+- `[gasp]` - gasping
+- `[groan]` - groaning
+- `[sniff]` - sniffing
+- `[shush]` - shushing
+- `[clear throat]` - throat clearing
+- `[yawn]` - yawning
 
 Example: `"That's hilarious [laugh] tell me more!"`
 
