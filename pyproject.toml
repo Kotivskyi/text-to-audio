@@ -1,0 +1,39 @@
+[project]
+name = "text-to-audio"
+version = "0.1.0"
+description = "Text-to-audio generator using Chatterbox TTS with automatic long text handling"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+keywords = ["tts", "text-to-speech", "chatterbox", "voice-cloning", "audio"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Multimedia :: Sound/Audio :: Speech",
+]
+dependencies = [
+    "torch",
+    "peft",
+    "torchaudio",
+    "chatterbox-tts",
+    "ml-dtypes>=0.5.0",
+]
+
+[project.scripts]
+text-to-audio = "text_to_audio.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/vkotiv/text-to-audio"
+Repository = "https://github.com/vkotiv/text-to-audio"
+Issues = "https://github.com/vkotiv/text-to-audio/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = []
