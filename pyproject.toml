@@ -1,6 +1,6 @@
 [project]
 name = "text-to-audio"
-version = "1.0.0"
+version = "1.0.1"
 description = "Text-to-audio generator using Chatterbox TTS with automatic long text handling"
 readme = "README.md"
 license = "MIT"
