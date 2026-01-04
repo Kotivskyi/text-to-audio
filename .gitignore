@@ -1,3 +1,6 @@
+# Claude Code
+.claude/
+
 # Virtual environments
 .venv/
 venv/
@@ -17,9 +20,11 @@ dist/
 # Audio files (user-generated)
 *.wav
 *.mp3
+*.flac
 
 # Text files (user input)
 text.txt
+text-short.txt
 
 # IDE
 .idea/
