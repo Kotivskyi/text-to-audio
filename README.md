@@ -1,5 +1,6 @@
 # Text-to-Audio
 
+[![PyPI version](https://badge.fury.io/py/text-to-audio.svg)](https://pypi.org/project/text-to-audio/)
 [![Tests](https://github.com/Kotivskyi/text-to-audio/actions/workflows/test.yml/badge.svg)](https://github.com/Kotivskyi/text-to-audio/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
@@ -8,7 +9,23 @@ Text-to-speech generator using [Chatterbox TTS](https://github.com/resemble-ai/c
 
 ## Installation
 
+### From PyPI
+
 ```bash
+pip install text-to-audio
+```
+
+Or with uv:
+
+```bash
+uv pip install text-to-audio
+```
+
+### From Source
+
+```bash
+git clone https://github.com/Kotivskyi/text-to-audio.git
+cd text-to-audio
 uv sync
 ```
 
